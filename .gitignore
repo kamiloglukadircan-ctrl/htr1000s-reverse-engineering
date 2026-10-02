@@ -1,0 +1,21 @@
+# No binary samples
+*.sdl
+*.qdf
+*.bin
+*.nand
+*.elf
+
+# No local test files
+test_*
+tmp_*
+scratch_*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+._*
